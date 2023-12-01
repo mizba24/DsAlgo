@@ -20,6 +20,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import utilities.LoggerLoad;
 
 	@CucumberOptions(plugin = { "pretty","json:target/target/Cucumber.json",
+			"pretty","io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 			"pretty","com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 			"pretty","html:target/dsAlgoReport.html"}, // reporting purpose
 			monochrome = false, // console output
