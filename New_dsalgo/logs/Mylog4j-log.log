@@ -2764,3 +2764,5 @@
 [INFO ]2023-11-2913:33:00.675[main]utilities.LoggerLoad1)-Initializing driver for : chrome
 [INFO ]2023-11-2913:34:27.098[main]utilities.LoggerLoad1)-Initializing driver for : firefox
 [INFO ]2023-11-2913:34:29.853[main]utilities.LoggerLoad1)-Initializing driver for : chrome
+[INFO ]2023-11-3015:32:33.750[main]utilities.LoggerLoad1)-Initializing driver for : firefox
+[INFO ]2023-11-3015:32:36.111[main]utilities.LoggerLoad1)-Initializing driver for : chrome
